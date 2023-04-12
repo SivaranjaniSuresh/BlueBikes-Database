@@ -25,9 +25,12 @@ Frontend:
 # Enhanced Entity-Relationship Diagram
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/114537365/231573482-1102e254-aea8-4faf-b77f-d9d84e8e6d6b.png">
 
-#  Visulatisation
+# :bar_chart: Visulatisation
 
-"\u1F4CA"
+<img width="1104" alt="image" src="https://user-images.githubusercontent.com/114537365/231584861-71c143f9-df25-4678-ae18-83a29cd0e7d5.png">
+
+
+
 
 
 
