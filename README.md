@@ -8,7 +8,9 @@ In addition to the basic table structures, the Blue Bikes database system also i
 
 # Technologies Used
 Backend: SQl (MySQL Server, Azure Data Studio)
+
 Frontend: Python, Streamlit 
 
+# Enhanced Entity-Relationship Diagram
 
 
