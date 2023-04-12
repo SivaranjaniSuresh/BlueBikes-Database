@@ -1,4 +1,4 @@
-# BlueBikes-Database
+# :bike: BlueBikes-Database
 Blue Bikes Database System is a database management system designed to support the operations of a bike-sharing program. This system is built to handle large amounts of data related to bike rentals, maintenance, and other aspects of the bike-sharing program.
 
 # :pencil: Project Description
@@ -25,7 +25,7 @@ Frontend:
 # Enhanced Entity-Relationship Diagram
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/114537365/231573482-1102e254-aea8-4faf-b77f-d9d84e8e6d6b.png">
 
-# Tables
+
 
 
 
