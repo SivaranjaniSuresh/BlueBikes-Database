@@ -10,7 +10,9 @@ In addition to the basic table structures, the Blue Bikes database system also i
 Backend: SQl (MySQL Server, Azure Data Studio)
 
 Frontend:
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  Streamlit 
+
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  
+<img src = "https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white " />
 
 # Enhanced Entity-Relationship Diagram
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/114537365/231573482-1102e254-aea8-4faf-b77f-d9d84e8e6d6b.png">
