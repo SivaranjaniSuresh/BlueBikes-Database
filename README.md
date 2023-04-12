@@ -7,7 +7,9 @@ The Blue Bikes database system is a comprehensive database management system des
 In addition to the basic table structures, the Blue Bikes database system also includes a range of advanced features, such as stored procedures, functions, views, non-clustered indexes, and DML triggers, to help ensure optimal performance, reliability, and data integrity. The system also uses data encryption to help protect sensitive customer information and ensure compliance with relevant data privacy regulations.
 
 # Technologies Used
-Backend: SQl (MySQL Server, Azure Data Studio)
+Backend: 
+
+<img src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 Frontend:
 
