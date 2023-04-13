@@ -29,7 +29,8 @@ Frontend:
 
 <img width="1104" alt="image" src="https://user-images.githubusercontent.com/114537365/231584861-71c143f9-df25-4678-ae18-83a29cd0e7d5.png">
 
-
+# Graphical User Interface
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/114537365/231621748-ec8e5a51-4a05-46af-bdb0-9b89e8e2699a.png">
 
 
 
